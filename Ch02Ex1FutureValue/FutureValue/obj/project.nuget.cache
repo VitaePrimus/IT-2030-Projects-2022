@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RqFfBF/2e98S2v7sntRQvMB15N6ybFkpGqm8XJT0Lo+DUu2zLAnw/jjpx+2WeDj5nwZTm8NZjSkmJUzSmNH8nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vital\\source\\repos\\IT-2030-Projects-2022\\Ch02Ex1FutureValue\\FutureValue\\FutureValue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vital\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
