@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "da376bb9-350d-433e-8ba4-e308e2707645": {
+      "ProjectGuid": "da376bb9-350d-433e-8ba4-e308e2707645",
+      "DisplayName": "ClassSchedule",
+      "ColorIndex": 0
+    },
+    "6c38961d-5e5a-4091-b9c4-0f1d601c7666": {
+      "ProjectGuid": "6c38961d-5e5a-4091-b9c4-0f1d601c7666",
+      "DisplayName": "ClassScheduleTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

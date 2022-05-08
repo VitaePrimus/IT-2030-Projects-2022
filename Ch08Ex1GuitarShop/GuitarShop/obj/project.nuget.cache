@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+ZAyKXqlVpnICsM+KmHm56ugN+3HFjHrK3ExKJCFurJ/3gCLCI8pmITI3XEVrdzPutauchWHUpbDUX7EXJYNdA==",
+  "dgSpecHash": "nX3kJZG6yKk5ba/9HoNpi22jbWyTg1GFk895PYab2coAkHq66qLF5zMl/ykPian/CD4ZuOYpkkphW+BXCY6+6A==",
   "success": true,
   "projectFilePath": "C:\\Users\\vital\\source\\repos\\IT-2030-Projects-2022\\Ch08Ex1GuitarShop\\GuitarShop\\GuitarShop.csproj",
   "expectedPackageFiles": [
@@ -158,7 +158,10 @@
     "C:\\Users\\vital\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\vital\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\vital\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\vital\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+    "C:\\Users\\vital\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\vital\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\vital\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\vital\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,56 @@
+﻿@model Project_2.Models.PriceQuotation
+@{
+    ViewBag.Title = "Price Quotation";
+}
+<div class="container">
+
+<main>
+        <header class="jumbotron">
+            <h1 class="mt-3">Price Quotation</h1>
+        </header>
+
+        <form asp-action="Index" method="post" class="form-horizontal">
+            <div class="row">
+                <label asp-for="Subtotal"
+                       class="control-label col-sm-3">
+                    Subtotal:
+                </label>
+                <input asp-for="Subtotal"
+                       class="form-control col-sm-3" />
+                <span asp-validation-for="Subtotal"
+                      class="text-danger col"></span>
+            </div>
+            <div class="row">
+                <label asp-for="Discount"
+                       class="control-label col-sm-3">
+                    Discount Percent:
+                </label>
+                <input asp-for="Discount"
+                       class="form-control col-sm-3" />
+                <span asp-validation-for="Discount"
+                      class="text-danger col"></span>
+            </div>
+            <div class="row">
+                <label class="control-label col-sm-3">Discount Amount:</label>
+                <input value="@ViewBag.Discount" readonly
+                       class="form-control col-sm-3" />
+            </div>
+            <div class="row">
+                <label class="control-label col-sm-3">Total:</label>
+                <input value="@ViewBag.Total" readonly
+                       class="form-control col-sm-3" />
+            </div>
+
+            <div class="row">
+                <div class="col offset-sm-3 pl-0">
+                    <button type="submit"
+                            class="btn btn-primary">
+                        Calculate
+                    </button>
+                    <a asp-action="Index"
+                       class="btn btn-outline-secondary">Clear</a>
+                </div>
+            </div>
+        </form>
+    </main>
+</div>
